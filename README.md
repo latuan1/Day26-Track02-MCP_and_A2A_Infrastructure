@@ -78,7 +78,7 @@ Codelab hướng dẫn từng bước xây dựng multi-agent system, từ cơ b
 - **[CODELAB.md](CODELAB.md)** - Hướng dẫn chi tiết cho sinh viên
 - **[INSTRUCTOR_GUIDE.md](INSTRUCTOR_GUIDE.md)** - Hướng dẫn cho giảng viên
 - **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Tài liệu tham khảo nhanh
-- **[exercises/](exercises/)** - Bài tập thực hành với skeleton code
+- **[exercises/](exercises/)** - Bài tập thực hành và đáp án mẫu
 - **[exercises/SOLUTIONS.md](exercises/SOLUTIONS.md)** - Đáp án chi tiết
 
 ### Lộ Trình Học

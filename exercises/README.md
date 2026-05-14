@@ -49,8 +49,8 @@ uv run python exercises/exercise_4_multiagent.py
 
 ## Hướng Dẫn Làm Bài
 
-### 1. Đọc TODO Comments
-Mỗi file có các comment `# TODO:` chỉ ra chỗ cần điền code.
+### 1. Đọc Yêu Cầu Bài Tập
+Mỗi file bài tập có phần code mẫu tương ứng với các nhiệm vụ trong codelab.
 
 ### 2. Tìm Gợi Ý
 Các comment `# Gợi ý:` cho biết hướng làm.
